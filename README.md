@@ -5,7 +5,7 @@
       
 
 - 📫 **Let’s Connect:**  
-  - ✉️ Email: [mrinal.gupta@stevens.edu](mailto:mrinal.gupta@stevens.edu) | [Mrinal.g110@gmail.com](mailto:Mrinal.g110@gmail.com)  
+  - ✉️ Email: [mgupta15@stevens.edu](mailto:mgupta15@stevens.edu) | [Mrinal.g110@gmail.com](mailto:Mrinal.g110@gmail.com)  
   - 🔗 LinkedIn: [linkedin.com/in/mrinal-g](https://www.linkedin.com/in/mrinal-g/)  
 - 😄 **Pronouns:** he/him  
 - ⚡ **Fun Fact:** I’m an avid cricket and snooker fan—and I’m learning tennis in my spare time!  
