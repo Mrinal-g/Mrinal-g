@@ -1,16 +1,19 @@
-# 👋 Hello, I’m Mrinal Gupta (@Mrinal-g)
+# Mrinal Gupta
 
-- 🔍 **About Me:** I’m a Financial Engineering graduate student with a passion for quantitative finance,  risk modeling, algorithmic trading and decentralized finance (DeFi).  
-- 🌱 **Currently Learning:**
-      
+Quantitative Finance | Risk Modeling | Data Science | Python
 
-- 📫 **Let’s Connect:**  
-  - ✉️ Email: [mgupta15@stevens.edu](mailto:mgupta15@stevens.edu) | [Mrinal.g110@gmail.com](mailto:Mrinal.g110@gmail.com)  
-  - 🔗 LinkedIn: [linkedin.com/in/mrinal-g](https://www.linkedin.com/in/mrinal-g/)  
-- 😄 **Pronouns:** he/him  
-- ⚡ **Fun Fact:** I’m an avid cricket and snooker fan—and I’m learning tennis in my spare time!  
+MS in Financial Engineering. Building production-style projects in options pricing, transaction-cost-aware portfolio optimization, credit risk, and market risk.
 
-<!---
-Mrinal-g/Mrinal-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Featured Work
+- Options pricing and hedging system with SVI surface, CRR/LSM pricing, delta hedging, and Streamlit dashboard
+- Dynamic trading with predictable returns and transaction costs using Gârleanu–Pedersen and PPO reinforcement learning
+- Credit risk modeling pipeline covering PD, LGD, EAD, expected loss, and IFRS 9-style staging
+- ETF market risk modeling with VaR, ES, backtesting, Basel traffic-light validation, and stress testing
+
+## Technical Stack
+Python, pandas, NumPy, scikit-learn, XGBoost, statsmodels, CVXPY, PyTorch, Stable-Baselines3, SQL, R
+
+## Links
+- LinkedIn: [ [linkedin.com/in/mrinal-g](https://www.linkedin.com/in/mrinal-g/)  ]
+- Resume: [PDF link]
+- Email: [mrinalgupta35@gmail.com]
