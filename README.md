@@ -14,6 +14,6 @@ MS in Financial Engineering with projects in options pricing, transaction-cost-a
 Python, pandas, NumPy, scikit-learn, XGBoost, statsmodels, CVXPY, PyTorch, Stable-Baselines3, SQL, R
 
 ## Links
-- LinkedIn: [linkedin.com/in/mrinalgupta](https://www.linkedin.com/in/mrinalgupta2/)
+- LinkedIn: [linkedin.com/in/mrinalgupta2](https://www.linkedin.com/in/mrinalgupta2/)
 - Resume: [Resume PDF](PASTE_YOUR_LINK_HERE)
 - Email: [mrinalgupta35@gmail.com](mailto:mrinalgupta35@gmail.com)
